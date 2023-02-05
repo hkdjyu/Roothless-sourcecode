@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: 2a4bad6f7105ccf4fbf2d6eb0952d149
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestEnemy - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 8}
+        - {x: 29, y: 13}
+        - {x: 24, y: 15}
+        - {x: 10, y: 2}
+        - {x: 17, y: 16}
+        - {x: 8, y: 26}
+        - {x: -6, y: 26}
+        - {x: -15, y: 21}
+        - {x: -12, y: 5}
+        - {x: -15, y: -2}
+        - {x: -15, y: -10}
+        - {x: -10, y: -11}
+        - {x: -13, y: -18}
+        - {x: -11, y: -25}
+        - {x: 1, y: -25}
+        - {x: 7, y: -24}
+        - {x: 10, y: -23}
+        - {x: 10, y: -12}
+      - - {x: 3, y: -2}
+        - {x: 2, y: -3}
+        - {x: 4, y: -5}
+        - {x: 4, y: -7}
+      - - {x: 0, y: 15}
+        - {x: 0, y: 14}
+        - {x: 2, y: 12}
+        - {x: 1, y: 11}
+        - {x: 1, y: 10}
+        - {x: -1, y: 11}
+      physicsShape: []
+      tessellationDetail: 0.34
+      bones: []
+      spriteID: 3c0cf1562152877418f3529204a7745e
+      internalID: -1901131408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -7}
+        - {x: 7, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -8}
+        - {x: 27, y: 8}
+        - {x: 28, y: 12}
+        - {x: 26, y: 16}
+        - {x: 16, y: 19}
+        - {x: 9, y: 25}
+        - {x: -7, y: 25}
+        - {x: -13, y: 14}
+        - {x: -13, y: 2}
+        - {x: -12, y: -3}
+        - {x: -13, y: -6}
+        - {x: -13, y: -10}
+        - {x: -11, y: -11}
+        - {x: -9, y: -11}
+        - {x: -7, y: -10}
+        - {x: -8, y: -10}
+        - {x: -10, y: -17}
+        - {x: -11, y: -25}
+        - {x: -9, y: -26}
+        - {x: 4, y: -26}
+        - {x: 7, y: -20}
+        - {x: 6, y: -11}
+      - - {x: 0, y: 14}
+        - {x: 0, y: 13}
+        - {x: 2, y: 11}
+        - {x: 1, y: 10}
+        - {x: 1, y: 9}
+        - {x: -1, y: 10}
+      physicsShape: []
+      tessellationDetail: 0.34
+      bones: []
+      spriteID: c2f9d90b29fb7f24fac3fda46e5e71b8
+      internalID: 368276803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 11}
+        - {x: 27, y: 13}
+        - {x: 25, y: 13}
+        - {x: 12, y: 1}
+        - {x: 9, y: 0}
+        - {x: 8, y: 3}
+        - {x: 14, y: 9}
+        - {x: 14, y: 14}
+        - {x: 11, y: 21}
+        - {x: 7, y: 24}
+        - {x: 5, y: 25}
+        - {x: -5, y: 25}
+        - {x: -11, y: 17}
+        - {x: -12, y: 13}
+        - {x: -9, y: 6}
+        - {x: -7, y: 4}
+        - {x: -14, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -11}
+        - {x: -10, y: -12}
+        - {x: -9, y: -10}
+        - {x: -4, y: -2}
+        - {x: -3, y: -6}
+        - {x: -6, y: -9}
+        - {x: -8, y: -17}
+        - {x: -7, y: -23}
+        - {x: -4, y: -26}
+        - {x: -2, y: -26}
+        - {x: 4, y: -25}
+        - {x: 9, y: -13}
+        - {x: 29, y: 7}
+      - - {x: 3, y: -3}
+        - {x: 2, y: -4}
+        - {x: 4, y: -8}
+        - {x: 5, y: -8}
+      - - {x: 0, y: 14}
+        - {x: 0, y: 13}
+        - {x: 2, y: 11}
+        - {x: 1, y: 10}
+        - {x: 1, y: 9}
+        - {x: -1, y: 10}
+      physicsShape: []
+      tessellationDetail: 0.62
+      bones: []
+      spriteID: c056b15d9a3a8c943a2a4c606621a7ed
+      internalID: 668037132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -11}
+        - {x: 4, y: -9}
+        - {x: 7, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -8}
+        - {x: 27, y: 8}
+        - {x: 28, y: 12}
+        - {x: 25, y: 16}
+        - {x: 22, y: 17}
+        - {x: 9, y: 1}
+        - {x: 14, y: 9}
+        - {x: 17, y: 15}
+        - {x: 8, y: 25}
+        - {x: -6, y: 25}
+        - {x: -12, y: 21}
+        - {x: -12, y: -17}
+        - {x: -11, y: -25}
+        - {x: -9, y: -26}
+        - {x: 3, y: -26}
+        - {x: 5, y: -24}
+        - {x: 6, y: -20}
+      - - {x: -3, y: -4}
+        - {x: -4, y: -6}
+        - {x: -6, y: -8}
+        - {x: -5, y: -8}
+      - - {x: 0, y: 14}
+        - {x: 0, y: 13}
+        - {x: 2, y: 11}
+        - {x: 1, y: 10}
+        - {x: 1, y: 9}
+        - {x: -1, y: 10}
+      physicsShape: []
+      tessellationDetail: 0.32
+      bones: []
+      spriteID: 90edc8b998930c546b618d0a9ce28245
+      internalID: -712570501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -24}
+        - {x: 10, y: -23}
+        - {x: 10, y: -12}
+        - {x: 18, y: -6}
+        - {x: 32, y: 8}
+        - {x: 32, y: 15}
+        - {x: 27, y: 19}
+        - {x: 20, y: 19}
+        - {x: 17, y: 18}
+        - {x: 17, y: 11}
+        - {x: 12, y: 8}
+        - {x: 9, y: 1}
+        - {x: 9, y: -1}
+        - {x: 9, y: 5}
+        - {x: 14, y: 10}
+        - {x: 15, y: 15}
+        - {x: 8, y: 26}
+        - {x: -5, y: 26}
+        - {x: -11, y: 18}
+        - {x: -13, y: 13}
+        - {x: -8, y: 5}
+        - {x: -14, y: -2}
+        - {x: -15, y: -5}
+        - {x: -15, y: -10}
+        - {x: -10, y: -11}
+        - {x: -4, y: -1}
+        - {x: -9, y: -11}
+        - {x: -11, y: -18}
+        - {x: -11, y: -22}
+        - {x: -10, y: -24}
+        - {x: -7, y: -24}
+        - {x: -4, y: -23}
+        - {x: -1, y: -11}
+        - {x: 2, y: -23}
+        - {x: 5, y: -24}
+      - - {x: 3, y: -4}
+        - {x: 4, y: -5}
+        - {x: 4, y: -7}
+      - - {x: 0, y: 15}
+        - {x: 0, y: 14}
+        - {x: 2, y: 12}
+        - {x: 1, y: 11}
+        - {x: 1, y: 10}
+        - {x: -1, y: 11}
+      physicsShape: []
+      tessellationDetail: 0.46
+      bones: []
+      spriteID: 5e12ae9f52086c548aa2c3f13e654808
+      internalID: -2087720177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -24}
+        - {x: 10, y: -20}
+        - {x: 10, y: -14}
+        - {x: 8, y: -11}
+        - {x: 12, y: -10}
+        - {x: 18, y: -3}
+        - {x: 25, y: -2}
+        - {x: 28, y: 5}
+        - {x: 30, y: 14}
+        - {x: 30, y: 16}
+        - {x: 25, y: 20}
+        - {x: 22, y: 25}
+        - {x: 20, y: 25}
+        - {x: 18, y: 24}
+        - {x: 14, y: 19}
+        - {x: 7, y: 24}
+        - {x: 4, y: 25}
+        - {x: -5, y: 25}
+        - {x: -11, y: 17}
+        - {x: -12, y: 13}
+        - {x: -11, y: 10}
+        - {x: -7, y: 4}
+        - {x: -14, y: -4}
+        - {x: -14, y: -10}
+        - {x: -13, y: -13}
+        - {x: -10, y: -12}
+        - {x: -8, y: -11}
+        - {x: -4, y: -2}
+        - {x: -3, y: -7}
+        - {x: -9, y: -12}
+        - {x: -11, y: -15}
+        - {x: -13, y: -21}
+        - {x: -10, y: -24}
+        - {x: -7, y: -23}
+        - {x: -4, y: -18}
+        - {x: 3, y: -15}
+        - {x: 2, y: -21}
+      - - {x: 8, y: 3}
+        - {x: 10, y: 4}
+        - {x: 9, y: 2}
+        - {x: 9, y: 3}
+      - - {x: 0, y: 14}
+        - {x: 0, y: 13}
+        - {x: 2, y: 11}
+        - {x: 1, y: 10}
+        - {x: 1, y: 9}
+        - {x: -1, y: 10}
+      physicsShape: []
+      tessellationDetail: 0.44
+      bones: []
+      spriteID: f6b0e4747fe0a0844b99e71f2e5073b7
+      internalID: 915834962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -24}
+        - {x: 10, y: -22}
+        - {x: 9, y: -14}
+        - {x: 7, y: -8}
+        - {x: 7, y: -1}
+        - {x: 13, y: -6}
+        - {x: 19, y: -3}
+        - {x: 18, y: 9}
+        - {x: 21, y: 17}
+        - {x: 21, y: 30}
+        - {x: 20, y: 32}
+        - {x: 10, y: 32}
+        - {x: 9, y: 28}
+        - {x: 6, y: 32}
+        - {x: 3, y: 31}
+        - {x: 3, y: 28}
+        - {x: -5, y: 25}
+        - {x: -11, y: 18}
+        - {x: -12, y: 14}
+        - {x: -11, y: 11}
+        - {x: -7, y: 5}
+        - {x: -14, y: -2}
+        - {x: -15, y: -5}
+        - {x: -15, y: -10}
+        - {x: -10, y: -11}
+        - {x: -9, y: -9}
+        - {x: -4, y: -1}
+        - {x: -8, y: -8}
+        - {x: -12, y: -16}
+        - {x: -12, y: -23}
+        - {x: -9, y: -24}
+        - {x: -6, y: -24}
+        - {x: -5, y: -22}
+        - {x: 2, y: -14}
+        - {x: 4, y: -24}
+      - - {x: 0, y: 15}
+        - {x: 0, y: 14}
+        - {x: 2, y: 12}
+        - {x: 1, y: 11}
+        - {x: 1, y: 10}
+        - {x: -1, y: 11}
+      physicsShape: []
+      tessellationDetail: 0.48
+      bones: []
+      spriteID: 641130aa1d869094294c8a21880dac3e
+      internalID: 486870981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -25}
+        - {x: 10, y: -23}
+        - {x: 9, y: -11}
+        - {x: 3, y: -7}
+        - {x: 8, y: -11}
+        - {x: 12, y: -11}
+        - {x: 14, y: -9}
+        - {x: 26, y: 5}
+        - {x: 26, y: 6}
+        - {x: 31, y: 16}
+        - {x: 31, y: 17}
+        - {x: 28, y: 22}
+        - {x: 31, y: 25}
+        - {x: 31, y: 27}
+        - {x: 27, y: 29}
+        - {x: 21, y: 29}
+        - {x: 20, y: 28}
+        - {x: 20, y: 21}
+        - {x: 2, y: 26}
+        - {x: -5, y: 25}
+        - {x: -11, y: 17}
+        - {x: -12, y: 13}
+        - {x: -11, y: 10}
+        - {x: -7, y: 4}
+        - {x: -14, y: -4}
+        - {x: -14, y: -10}
+        - {x: -13, y: -13}
+        - {x: -10, y: -12}
+        - {x: -8, y: -11}
+        - {x: -5, y: -6}
+        - {x: -3, y: -6}
+        - {x: -9, y: -12}
+        - {x: -13, y: -18}
+        - {x: -11, y: -25}
+        - {x: -7, y: -25}
+        - {x: -5, y: -23}
+        - {x: 2, y: -14}
+        - {x: 3, y: -22}
+      - - {x: 27, y: 0}
+        - {x: 30, y: 1}
+        - {x: 30, y: 4}
+        - {x: 27, y: 5}
+        - {x: 25, y: 3}
+      - - {x: 0, y: 14}
+        - {x: 0, y: 13}
+        - {x: 2, y: 11}
+        - {x: 1, y: 10}
+        - {x: 1, y: 9}
+        - {x: -1, y: 10}
+      physicsShape: []
+      tessellationDetail: 0.48
+      bones: []
+      spriteID: 86d0f0c58315ea94eb6a925b0a2098eb
+      internalID: 1815328022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -24}
+        - {x: 10, y: -23}
+        - {x: 10, y: -12}
+        - {x: 29, y: 5}
+        - {x: 29, y: 17}
+        - {x: 11, y: 2}
+        - {x: 14, y: 10}
+        - {x: 15, y: 15}
+        - {x: 10, y: 25}
+        - {x: -7, y: 25}
+        - {x: -11, y: 18}
+        - {x: -12, y: 14}
+        - {x: -7, y: 5}
+        - {x: -15, y: -4}
+        - {x: -15, y: -8}
+        - {x: -14, y: -11}
+        - {x: -8, y: -9}
+        - {x: -13, y: -17}
+        - {x: -11, y: -24}
+        - {x: -5, y: -24}
+        - {x: -1, y: -12}
+        - {x: 2, y: -23}
+        - {x: 5, y: -24}
+      - - {x: 3, y: -5}
+        - {x: 4, y: -4}
+        - {x: 3, y: -2}
+        - {x: 2, y: -3}
+        - {x: 4, y: -5}
+        - {x: 4, y: -7}
+        - {x: 4, y: -6}
+      - - {x: 0, y: 15}
+        - {x: 0, y: 14}
+        - {x: 2, y: 12}
+        - {x: 1, y: 11}
+        - {x: 1, y: 10}
+        - {x: -1, y: 11}
+      physicsShape: []
+      tessellationDetail: 0.36
+      bones: []
+      spriteID: c54aeb5e95f5e024dbdb37021280e28a
+      internalID: 1813054205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -8}
+        - {x: 32, y: -1}
+        - {x: 31, y: 2}
+        - {x: 24, y: 0}
+        - {x: 18, y: -5}
+        - {x: 8, y: -14}
+        - {x: 6, y: -8}
+        - {x: 3, y: -7}
+        - {x: 3, y: -2}
+        - {x: 3, y: -4}
+        - {x: 6, y: -8}
+        - {x: 12, y: -5}
+        - {x: 14, y: 15}
+        - {x: 11, y: 20}
+        - {x: 7, y: 23}
+        - {x: 1, y: 25}
+        - {x: -5, y: 25}
+        - {x: -11, y: 21}
+        - {x: -14, y: 14}
+        - {x: -12, y: 2}
+        - {x: -15, y: -3}
+        - {x: -15, y: -12}
+        - {x: -14, y: -12}
+        - {x: -8, y: -10}
+        - {x: -9, y: -12}
+        - {x: -10, y: -17}
+        - {x: -11, y: -24}
+        - {x: -8, y: -25}
+        - {x: -4, y: -25}
+        - {x: -2, y: -21}
+        - {x: 7, y: -25}
+        - {x: 11, y: -25}
+      - - {x: -1, y: 14}
+        - {x: 1, y: 12}
+        - {x: 0, y: 11}
+        - {x: 1, y: 10}
+        - {x: -2, y: 10}
+      physicsShape: []
+      tessellationDetail: 0.36
+      bones: []
+      spriteID: d029c01981d58f94d94d89ad72735a35
+      internalID: 1190925767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -24}
+        - {x: 30, y: -23}
+        - {x: 32, y: -19}
+        - {x: 32, y: -13}
+        - {x: 18, y: -12}
+        - {x: 7, y: -2}
+        - {x: 11, y: 10}
+        - {x: 2, y: 20}
+        - {x: -14, y: 20}
+        - {x: -19, y: 13}
+        - {x: -19, y: 2}
+        - {x: -15, y: -4}
+        - {x: -19, y: -17}
+        - {x: -12, y: -19}
+        - {x: -11, y: -16}
+        - {x: 1, y: -25}
+        - {x: 3, y: -25}
+        - {x: 5, y: -23}
+        - {x: 4, y: -18}
+      - - {x: -8, y: 7}
+        - {x: -9, y: 8}
+        - {x: -7, y: 9}
+        - {x: -4, y: 5}
+        - {x: -8, y: 4}
+      physicsShape: []
+      tessellationDetail: 0.22
+      bones: []
+      spriteID: b8c9f045ebf1afb448689d03a5dc0aad
+      internalID: 1478735359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestEnemy - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: -11}
+        - {x: -3, y: -17}
+        - {x: 3, y: -23}
+        - {x: 10, y: -24}
+        - {x: 16, y: -23}
+        - {x: 21, y: -21}
+        - {x: 26, y: -22}
+        - {x: 28, y: -21}
+        - {x: 32, y: -18}
+        - {x: 32, y: -17}
+        - {x: 27, y: -12}
+        - {x: 25, y: -11}
+        - {x: 18, y: -12}
+        - {x: 15, y: -14}
+        - {x: 7, y: -14}
+        - {x: 13, y: -9}
+        - {x: 15, y: -6}
+        - {x: 14, y: -2}
+        - {x: 7, y: -2}
+        - {x: -2, y: -3}
+        - {x: -3, y: 2}
+        - {x: -5, y: 7}
+        - {x: -12, y: 10}
+        - {x: -16, y: 10}
+        - {x: -22, y: 8}
+        - {x: -26, y: 2}
+        - {x: -27, y: -4}
+        - {x: -27, y: -7}
+        - {x: -25, y: -10}
+        - {x: -22, y: -15}
+        - {x: -19, y: -15}
+        - {x: -11, y: -17}
+        - {x: -9, y: -24}
+        - {x: -5, y: -28}
+        - {x: -2, y: -28}
+        - {x: 0, y: -23}
+        - {x: -5, y: -14}
+        - {x: -7, y: -12}
+      - - {x: -14, y: -6}
+        - {x: -16, y: -3}
+        - {x: -14, y: -3}
+        - {x: -11, y: 1}
+        - {x: -11, y: 4}
+        - {x: -13, y: 5}
+        - {x: -11, y: 2}
+        - {x: -14, y: -1}
+        - {x: -14, y: -2}
+        - {x: -13, y: -7}
+        - {x: -15, y: -8}
+      physicsShape: []
+      tessellationDetail: 0.42
+      bones: []
+      spriteID: e4218b6f2fb5b794e95c8484681c37c0
+      internalID: -1321853916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TestEnemy - Copy_1: 368276803
+      TestEnemy - Copy_3: -712570501
+      TestEnemy - Copy_7: 1815328022
+      TestEnemy - Copy_6: 486870981
+      TestEnemy - Copy_9: 1190925767
+      TestEnemy - Copy_0: -1901131408
+      TestEnemy - Copy_10: 1478735359
+      TestEnemy - Copy_8: 1813054205
+      TestEnemy - Copy_4: -2087720177
+      TestEnemy - Copy_5: 915834962
+      TestEnemy - Copy_2: 668037132
+      TestEnemy - Copy_11: -1321853916
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

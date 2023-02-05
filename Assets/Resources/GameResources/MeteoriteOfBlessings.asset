@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac53cd434c4e32e429505d7e69bfb721, type: 3}
+  m_Name: MeteoriteOfBlessings
+  m_EditorClassIdentifier: 
+  resType: 3
+  resName: MeteoriteOfBlessings
+  resSprite: {fileID: 984172767, guid: eab72b81ec004e24a9b9bdb523c34b3a, type: 3}
+  animatorController: {fileID: 9100000, guid: fb8e52d1bbba0644c937d207006915d3, type: 2}
+  maxHP: 4500
+  HP: 4500
+  maxResAmount: 80
+  resAmount: 40
+  defaultAbsorbRate: 0.1
+  absorbRate: 0.1
+  isAbsorbing: 0
+  canAttractEnemy: 0
+  beginStage: 1

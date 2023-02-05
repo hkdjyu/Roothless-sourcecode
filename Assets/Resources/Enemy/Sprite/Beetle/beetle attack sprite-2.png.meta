@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 8e092d1969e65f348b987f72651c4e26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beetle attack sprite-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.15625, y: 28.941177}
+        - {x: -49.21875, y: 28.941177}
+        - {x: -53.4375, y: 27.529413}
+        - {x: -46.40625, y: 19.058825}
+        - {x: -42.1875, y: 13.411765}
+        - {x: -53.4375, y: 6.3529415}
+        - {x: -53.4375, y: -21.882353}
+        - {x: -36.5625, y: -40.235294}
+        - {x: 45, y: -40.235294}
+        - {x: 56.25, y: -37.411766}
+        - {x: 56.25, y: -9.176471}
+        - {x: 43.59375, y: 26.117647}
+      physicsShape:
+      - - {x: 46, y: -34}
+        - {x: 53.4375, y: -31.764708}
+        - {x: 53.4375, y: -17.647058}
+        - {x: 50.625, y: -9.176471}
+        - {x: 33.75, y: 20.470589}
+        - {x: 21.09375, y: 27.529413}
+        - {x: -47.8125, y: 27.529413}
+        - {x: -52.03125, y: 6.3529415}
+        - {x: -52.03125, y: -23.294119}
+        - {x: -40.78125, y: -37.411766}
+        - {x: 42.1875, y: -37.411766}
+        - {x: 43, y: -35}
+      tessellationDetail: 0.08
+      bones: []
+      spriteID: e49110869b0eee2419823ca30e551a9d
+      internalID: 938127114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle attack sprite-2_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.625004, y: 27.529413}
+        - {x: 31.406252, y: 23.294119}
+        - {x: 25.781254, y: 14.82353}
+        - {x: 15.937503, y: 24.705883}
+        - {x: 10.312503, y: 23.294119}
+        - {x: 0.46875358, y: 27.529413}
+        - {x: -24.843746, y: 27.529413}
+        - {x: -40.312496, y: 24.705883}
+        - {x: -48.749996, y: 21.882353}
+        - {x: -48.749996, y: -30.352942}
+        - {x: -41.718746, y: -40.235294}
+        - {x: 53.906254, y: -40.235294}
+        - {x: 56.718754, y: -37.411766}
+        - {x: 56.718754, y: -3.5294118}
+        - {x: 39.843754, y: 27.529413}
+      physicsShape:
+      - - {x: 32.812504, y: 26.117647}
+        - {x: -37.499996, y: 26.117647}
+        - {x: -36.093746, y: 20.470589}
+        - {x: -34.687496, y: 16.235294}
+        - {x: -44.531246, y: 16.235294}
+        - {x: -47.343746, y: 13.411765}
+        - {x: -47.343746, y: 10.588236}
+        - {x: -44.531246, y: 7.764706}
+        - {x: -38.906246, y: 3.5294118}
+        - {x: -47.343746, y: -9.176471}
+        - {x: -47.343746, y: -33.17647}
+        - {x: -37.499996, y: -37.411766}
+        - {x: 52.500004, y: -37.411766}
+        - {x: 55.312504, y: -36}
+        - {x: 55.312504, y: -10.588236}
+        - {x: 42.656254, y: 21.882353}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd41f585976fd434e901b533a5cbc04e
+      internalID: 2048869593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle attack sprite-2_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.031242, y: 34.588238}
+        - {x: -39.843742, y: 30.352942}
+        - {x: -37.031242, y: 17.647058}
+        - {x: -32.812492, y: 2.1176472}
+        - {x: -29.999992, y: 2.1176472}
+        - {x: -32.812492, y: -2.1176472}
+        - {x: -31.406242, y: -2.1176472}
+        - {x: -35.624992, y: 6.3529415}
+        - {x: -39.843742, y: 10.588236}
+        - {x: -45.468742, y: 12}
+        - {x: -52.499992, y: 6.3529415}
+        - {x: -52.499992, y: -13.411765}
+        - {x: -37.031242, y: -40.235294}
+        - {x: 44.531258, y: -40.235294}
+        - {x: 58.593758, y: -33.17647}
+        - {x: 58.593758, y: 34.588238}
+      physicsShape:
+      - - {x: -48.281242, y: 31.764708}
+        - {x: -48.281242, y: -19.058825}
+        - {x: -38.437492, y: -37.411766}
+        - {x: 47.343758, y: -37.411766}
+        - {x: 55.781258, y: -34.588238}
+        - {x: 55.781258, y: -3.5294118}
+        - {x: 45.937508, y: 31.764708}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c663744f83d94fa37ebcf657757e7
+      internalID: -1331830056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      beetle attack sprite-2_0: 938127114
+      beetle attack sprite-2_1: 2048869593
+      beetle attack sprite-2_2: -1331830056
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

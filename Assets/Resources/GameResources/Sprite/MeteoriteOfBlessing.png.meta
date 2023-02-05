@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: eab72b81ec004e24a9b9bdb523c34b3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53a184e1fdbc641a3d81b52ebe9f9d
+      internalID: 984172767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d2d4a8ad0e034b952e5ad5a3f0a15
+      internalID: 1043818050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5f31ee46480246a477afba4aa6a13
+      internalID: 1363088408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a65041a2964d489ea483c5ff4bf14
+      internalID: 1838818470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868b957df1a0da4b9cd926699f7d074
+      internalID: -958057701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b17388c6e5754ea9b41a7597c1bcc
+      internalID: -850710281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae256d9eca812f4c86ef13e8eff89b1
+      internalID: -764929403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba180d54559572a4985babb4867c36fc
+      internalID: -671099497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a43a978bbcb3d4cb7d6da04e566168
+      internalID: 1200005908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_9
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e408a88638d6348971225122a0b520
+      internalID: -1193060008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_10
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc275ab2aff84749b2101cbec19b5a3
+      internalID: -131887269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_11
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d1826cb472da42a63b7b71affbb6e
+      internalID: -1201296348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_12
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78de02b4f1804408c88496d50ce7cf
+      internalID: 2066990620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_13
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e1c573ac2ef27488b1d7b63886d7a6
+      internalID: 1568994758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_14
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8248af76401f47854fc9f72a55ce1
+      internalID: 658991087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_15
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65519a1dbd13c84fb2fe3c306d0f593
+      internalID: 363090716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_16
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6fad2b402eed40be39032564f5fa8
+      internalID: 1450301780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_17
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186a9978cfa44340997f004eb8ccf8e
+      internalID: 254541282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteOfBlessing_18
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 0
+        width: 142
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.251953, y: 142.27826}
+        - {x: -15.808593, y: 142.27826}
+        - {x: -31, y: 127.5}
+        - {x: -60.599606, y: -35.569565}
+        - {x: -60.599606, y: -117.24783}
+        - {x: -39.521484, y: -126.46957}
+        - {x: 21.078125, y: -126.46957}
+        - {x: 51.37793, y: 6.586957}
+        - {x: 68.50391, y: 100.12174}
+        - {x: 68.50391, y: 118.56522}
+      physicsShape:
+      - - {x: -18.339354, y: 139.64348}
+        - {x: -35, y: 120.5}
+        - {x: -57.860836, y: -56.647827}
+        - {x: -57.860836, y: -110.66087}
+        - {x: -26.243649, y: -123.834785}
+        - {x: 15.9126, y: -123.834785}
+        - {x: 62, y: 55.5}
+        - {x: 65.973145, y: 119.882614}
+        - {x: 46.212402, y: 139.64348}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e3169ea6816b041bc8aac7324addda
+      internalID: -1037303192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MeteoriteOfBlessing_3: 1838818470
+      MeteoriteOfBlessing_4: -958057701
+      MeteoriteOfBlessing_12: 2066990620
+      MeteoriteOfBlessing_18: -1037303192
+      MeteoriteOfBlessing_2: 1363088408
+      MeteoriteOfBlessing_1: 1043818050
+      MeteoriteOfBlessing_10: -131887269
+      MeteoriteOfBlessing_13: 1568994758
+      MeteoriteOfBlessing_11: -1201296348
+      MeteoriteOfBlessing_16: 1450301780
+      MeteoriteOfBlessing_7: -671099497
+      MeteoriteOfBlessing_17: 254541282
+      MeteoriteOfBlessing_9: -1193060008
+      MeteoriteOfBlessing_14: 658991087
+      MeteoriteOfBlessing_15: 363090716
+      MeteoriteOfBlessing_8: 1200005908
+      MeteoriteOfBlessing_6: -764929403
+      MeteoriteOfBlessing_0: 984172767
+      MeteoriteOfBlessing_5: -850710281
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

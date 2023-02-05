@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5eee3140ea9f5840b06d7b5c8102213, type: 3}
+  m_Name: Terraformer
+  m_EditorClassIdentifier: 
+  isAllDataReady: 1
+  enemyName: Terraformer
+  sprite: {fileID: -1583399883, guid: b744a8f3e8e0ed14587584e738bee7ab, type: 3}
+  projectileSprite: {fileID: 0}
+  animatorController: {fileID: 9100000, guid: be1b84854eb609348bb1e680c0ef33e6, type: 2}
+  maxHP: 650
+  HP: 650
+  maxSpeed: 175
+  speed: 175
+  linearDrag: 2
+  enemyType: 2
+  attackTargetType: 2
+  attackMode: 0
+  attackDamage: 80
+  attackCD: 0.1
+  attackRange: 0.5
+  projectileSpeed: 0
+  projectileLinearDrag: 1
+  spawnCD: 35
+  beginStage: 4
+  lastStage: 5

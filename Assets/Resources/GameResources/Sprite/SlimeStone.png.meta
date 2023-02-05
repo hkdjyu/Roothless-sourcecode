@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: cb94f88e637b9de4fbd5f5bbc8dfcd26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlimeStone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db17c369f664b843a3da35bebc7bb0c
+      internalID: 1551773760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeStone_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567b9f1a7c9381248853bdf4978af6fb
+      internalID: -365611497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeStone_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c89fcc7837083438615735e0263291
+      internalID: -611666370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeStone_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2917189c705154db56926bcea84743
+      internalID: 311083424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeStone_4
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340b0466177a154a83709fe50b4e893
+      internalID: -799982408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeStone_5
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba0d1fa18d5924da6da07f0330df08
+      internalID: 742392797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeStone_6
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989350a182f2084991423350661e3c3
+      internalID: 782983448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeStone_7
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 71}
+        - {x: -151.5, y: 3}
+        - {x: -145.58203, y: -56.8}
+        - {x: -74.56641, y: -69.816666}
+        - {x: 102.97266, y: -69.816666}
+        - {x: 150.3164, y: -60.35}
+        - {x: 151.5, y: 23}
+        - {x: 82.5, y: 71}
+      physicsShape:
+      - - {x: -80.484375, y: 44.966667}
+        - {x: -109.5, y: 24}
+        - {x: -136.11328, y: -15.383333}
+        - {x: -136.11328, y: -52.066666}
+        - {x: -78.11719, y: -67.45}
+        - {x: 88.76953, y: -67.45}
+        - {x: 129.01172, y: -49.7}
+        - {x: 129.01172, y: 31.95}
+        - {x: 72.19922, y: 44.966667}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8e096a1178d444862013e4bb203a7
+      internalID: 51577717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SlimeStone_6: 782983448
+      SlimeStone_7: 51577717
+      SlimeStone_4: -799982408
+      SlimeStone_3: 311083424
+      SlimeStone_2: -611666370
+      SlimeStone_1: -365611497
+      SlimeStone_0: 1551773760
+      SlimeStone_5: 742392797
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

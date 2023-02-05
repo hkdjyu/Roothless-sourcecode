@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5eee3140ea9f5840b06d7b5c8102213, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  isAllDataReady: 1
+  enemyName: Dragon
+  sprite: {fileID: -522972889, guid: 37ef14cd07f6a9340b2dcba17154406d, type: 3}
+  projectileSprite: {fileID: 377325621, guid: 0b4af4e33fee6b44e88186ce5507efcb, type: 3}
+  animatorController: {fileID: 9100000, guid: 8d9b6ce507f466a47a78fbbab52a8f69, type: 2}
+  maxHP: 410
+  HP: 410
+  maxSpeed: 130
+  speed: 130
+  linearDrag: 1.1
+  enemyType: 4
+  attackTargetType: 1
+  attackMode: 1
+  attackDamage: 450
+  attackCD: 1.5
+  attackRange: 5
+  projectileSpeed: 800
+  projectileLinearDrag: 2
+  spawnCD: 30
+  beginStage: 3
+  lastStage: 4

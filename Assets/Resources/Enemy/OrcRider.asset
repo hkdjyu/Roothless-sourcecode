@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5eee3140ea9f5840b06d7b5c8102213, type: 3}
+  m_Name: OrcRider
+  m_EditorClassIdentifier: 
+  isAllDataReady: 1
+  enemyName: OrcRider
+  sprite: {fileID: 1886110966, guid: 1c576a6bbc84b264195eb4d9fea99c9b, type: 3}
+  projectileSprite: {fileID: 0}
+  animatorController: {fileID: 9100000, guid: ca98bff1e7fb9c949bc9489c3fd850b8, type: 2}
+  maxHP: 200
+  HP: 200
+  maxSpeed: 150
+  speed: 150
+  linearDrag: 1.3
+  enemyType: 2
+  attackTargetType: 1
+  attackMode: 0
+  attackDamage: 400
+  attackCD: 2
+  attackRange: 0.5
+  projectileSpeed: 0
+  projectileLinearDrag: 1
+  spawnCD: 20
+  beginStage: 2
+  lastStage: 3

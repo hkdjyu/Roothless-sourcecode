@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5eee3140ea9f5840b06d7b5c8102213, type: 3}
+  m_Name: Assault Robot
+  m_EditorClassIdentifier: 
+  isAllDataReady: 1
+  enemyName: Assault Robot
+  sprite: {fileID: -1394162985, guid: 9b00b6e7ff54fca418e6b1f3fd9f9d4c, type: 3}
+  projectileSprite: {fileID: 470147252, guid: 0b4af4e33fee6b44e88186ce5507efcb, type: 3}
+  animatorController: {fileID: 9100000, guid: 0bf73dc2fad64c149be929b6d95b292a, type: 2}
+  maxHP: 210
+  HP: 210
+  maxSpeed: 70
+  speed: 70
+  linearDrag: 1.2
+  enemyType: 0
+  attackTargetType: 0
+  attackMode: 0
+  attackDamage: 80
+  attackCD: 0.2
+  attackRange: 2
+  projectileSpeed: 1000
+  projectileLinearDrag: 1
+  spawnCD: 6
+  beginStage: 4
+  lastStage: 5

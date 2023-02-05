@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5eee3140ea9f5840b06d7b5c8102213, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  isAllDataReady: 1
+  enemyName: Orc
+  sprite: {fileID: 1513670377, guid: 32ac2cff9c8acca42a8d62a3b49a4cca, type: 3}
+  projectileSprite: {fileID: 0}
+  animatorController: {fileID: 9100000, guid: 921f14ed0b4437e488b83896e9ba7e42, type: 2}
+  maxHP: 70
+  HP: 70
+  maxSpeed: 90
+  speed: 90
+  linearDrag: 1
+  enemyType: 1
+  attackTargetType: 2
+  attackMode: 0
+  attackDamage: 50
+  attackCD: 1
+  attackRange: 0.5
+  projectileSpeed: 0
+  projectileLinearDrag: 1
+  spawnCD: 10
+  beginStage: 2
+  lastStage: 3

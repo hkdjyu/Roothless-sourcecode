@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 0f5af5ad709c81841b8d09c5571648f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestRangedEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 28}
+        - {x: -16, y: 28}
+        - {x: -21, y: 20}
+        - {x: -21, y: -6}
+        - {x: -15, y: -26}
+        - {x: 7, y: -26}
+        - {x: 8, y: -25}
+        - {x: 21, y: -7}
+        - {x: 21, y: 9}
+        - {x: 15, y: 23}
+      - - {x: 9, y: -2}
+        - {x: 12, y: 2}
+        - {x: 12, y: 5}
+        - {x: 14, y: 3}
+        - {x: 14, y: 2}
+        - {x: 11, y: -3}
+        - {x: 8, y: -4}
+        - {x: 9, y: -3}
+      - - {x: -5, y: 15}
+        - {x: -5, y: 17}
+        - {x: -2, y: 20}
+        - {x: -2, y: 16}
+        - {x: 0, y: 14}
+        - {x: -1, y: 13}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 20685be5e64e6a340875199ec3f7eb89
+      internalID: 596462888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 29}
+        - {x: -18, y: 26}
+        - {x: -22, y: 17}
+        - {x: -22, y: 8}
+        - {x: -13, y: -19}
+        - {x: -7, y: -21}
+        - {x: -5, y: -17}
+        - {x: 1, y: -22}
+        - {x: 10, y: -22}
+        - {x: 21, y: 1}
+        - {x: 21, y: 13}
+        - {x: 4, y: 29}
+      - - {x: 13, y: 7}
+        - {x: 14, y: 6}
+        - {x: 14, y: 5}
+        - {x: 11, y: 0}
+        - {x: 8, y: -1}
+        - {x: 9, y: -1}
+      - - {x: -6, y: 15}
+        - {x: -6, y: 17}
+        - {x: -3, y: 20}
+        - {x: -4, y: 19}
+        - {x: -1, y: 15}
+        - {x: -2, y: 14}
+        - {x: -2, y: 13}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: c3113995491431343ace406b13784ded
+      internalID: 290697454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 9}
+        - {x: -15, y: -8}
+        - {x: -9, y: -22}
+        - {x: 2, y: -22}
+        - {x: 21, y: -6}
+        - {x: 21, y: 9}
+        - {x: 9, y: 28}
+        - {x: -20, y: 28}
+        - {x: -22, y: 20}
+      - - {x: 11, y: 2}
+        - {x: 13, y: 6}
+        - {x: 14, y: 4}
+        - {x: 11, y: 2}
+        - {x: 10, y: 0}
+        - {x: 8, y: -1}
+        - {x: 9, y: -1}
+      - - {x: -6, y: 14}
+        - {x: -6, y: 16}
+        - {x: -3, y: 19}
+        - {x: -4, y: 18}
+        - {x: -1, y: 14}
+        - {x: -2, y: 13}
+        - {x: -2, y: 12}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 43298bb368b527648a97869cab3204a1
+      internalID: 886157392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 29}
+        - {x: -17, y: 23}
+        - {x: -22, y: 15}
+        - {x: -22, y: 7}
+        - {x: -13, y: -19}
+        - {x: -7, y: -21}
+        - {x: -5, y: -17}
+        - {x: 1, y: -22}
+        - {x: 10, y: -22}
+        - {x: 21, y: 1}
+        - {x: 21, y: 14}
+        - {x: 4, y: 29}
+      - - {x: 13, y: 7}
+        - {x: 14, y: 6}
+        - {x: 14, y: 5}
+        - {x: 11, y: 0}
+        - {x: 8, y: -1}
+        - {x: 9, y: -1}
+      - - {x: -6, y: 15}
+        - {x: -6, y: 17}
+        - {x: -3, y: 20}
+        - {x: -4, y: 19}
+        - {x: -1, y: 15}
+        - {x: -2, y: 14}
+        - {x: -2, y: 13}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 1ef30d1d4c3eeb748b0234f74ec73603
+      internalID: -657631187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 28}
+        - {x: -16, y: 28}
+        - {x: -21, y: 20}
+        - {x: -21, y: -6}
+        - {x: -15, y: -26}
+        - {x: 7, y: -26}
+        - {x: 8, y: -25}
+        - {x: 21, y: -7}
+        - {x: 21, y: 9}
+        - {x: 15, y: 23}
+      - - {x: 9, y: -2}
+        - {x: 12, y: 2}
+        - {x: 12, y: 5}
+        - {x: 14, y: 3}
+        - {x: 14, y: 2}
+        - {x: 11, y: -3}
+        - {x: 8, y: -4}
+        - {x: 9, y: -3}
+      - - {x: -5, y: 16}
+        - {x: -2, y: 20}
+        - {x: -2, y: 16}
+        - {x: 0, y: 14}
+        - {x: -1, y: 13}
+        - {x: -2, y: 14}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 49f9409a393d0e34e9ea06a462084f93
+      internalID: 724278807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 27}
+        - {x: -9, y: 27}
+        - {x: -21, y: 24}
+        - {x: -21, y: -6}
+        - {x: -20, y: -10}
+        - {x: -12, y: -24}
+        - {x: -9, y: -22}
+        - {x: -6, y: -19}
+        - {x: -4, y: -15}
+        - {x: 1, y: -26}
+        - {x: 6, y: -26}
+        - {x: 9, y: -25}
+        - {x: 22, y: -8}
+        - {x: 24, y: 2}
+        - {x: 24, y: 19}
+      - - {x: 14, y: 11}
+        - {x: 16, y: 10}
+        - {x: 14, y: 10}
+      - - {x: -5, y: 14}
+        - {x: -5, y: 16}
+        - {x: -2, y: 19}
+        - {x: -2, y: 15}
+        - {x: 0, y: 13}
+        - {x: -1, y: 12}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 5eac31f0eb1c1e745857aac97f09c343
+      internalID: -1137736215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -21, y: 24}
+        - {x: -21, y: 5}
+        - {x: -12, y: -23}
+        - {x: -6, y: -25}
+        - {x: -4, y: -26}
+        - {x: 19, y: -26}
+        - {x: 27, y: -12}
+        - {x: 27, y: 13}
+        - {x: 16, y: 26}
+      - - {x: 10, y: 2}
+        - {x: 9, y: 3}
+        - {x: 14, y: 2}
+        - {x: 12, y: 2}
+        - {x: 10, y: 0}
+      - - {x: 10, y: 9}
+        - {x: 11, y: 11}
+        - {x: 16, y: 9}
+        - {x: 11, y: 9}
+        - {x: 10, y: 10}
+      - - {x: -5, y: 13}
+        - {x: -5, y: 15}
+        - {x: -2, y: 18}
+        - {x: -2, y: 14}
+        - {x: 0, y: 12}
+        - {x: -1, y: 11}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 4a9fdaf9169a2a64cb6f4bc0c473c0d2
+      internalID: 234365925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 27}
+        - {x: -9, y: 27}
+        - {x: -21, y: 24}
+        - {x: -21, y: 0}
+        - {x: -19, y: -9}
+        - {x: -14, y: -21}
+        - {x: -7, y: -25}
+        - {x: -2, y: -26}
+        - {x: 16, y: -26}
+        - {x: 21, y: -11}
+        - {x: 26, y: 6}
+        - {x: 26, y: 15}
+      - - {x: 15, y: 9}
+        - {x: 15, y: 10}
+        - {x: 18, y: 8}
+        - {x: 17, y: 9}
+      - - {x: -4, y: 14}
+        - {x: -4, y: 17}
+        - {x: -2, y: 19}
+        - {x: -2, y: 15}
+        - {x: 0, y: 13}
+        - {x: -1, y: 12}
+        - {x: -2, y: 13}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 9736756e3fc5433419994fe27884805a
+      internalID: 173269892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 26}
+        - {x: -6, y: 26}
+        - {x: -17, y: 24}
+        - {x: -21, y: 13}
+        - {x: -14, y: -21}
+        - {x: -11, y: -22}
+        - {x: -9, y: -22}
+        - {x: -6, y: -19}
+        - {x: 1, y: -26}
+        - {x: 10, y: -26}
+        - {x: 17, y: -12}
+        - {x: 21, y: -3}
+        - {x: 21, y: 6}
+      - - {x: 9, y: -3}
+        - {x: 11, y: -1}
+        - {x: 11, y: 1}
+        - {x: 12, y: 4}
+        - {x: 14, y: 2}
+        - {x: 14, y: 0}
+        - {x: 11, y: -2}
+        - {x: 10, y: -4}
+        - {x: 8, y: -5}
+        - {x: 9, y: -4}
+      - - {x: -4, y: 13}
+        - {x: -5, y: 15}
+        - {x: -2, y: 18}
+        - {x: -3, y: 17}
+        - {x: 0, y: 13}
+        - {x: -1, y: 12}
+        - {x: -3, y: 13}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: d8a5fe86c69944c4287fc9c3280d283f
+      internalID: 1492682021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18}
+        - {x: 2, y: 20}
+        - {x: -22, y: 20}
+        - {x: -25, y: 9}
+        - {x: -25, y: -9}
+        - {x: 2, y: -23}
+        - {x: 13, y: -23}
+        - {x: 18, y: -13}
+        - {x: 18, y: 8}
+        - {x: 14, y: 16}
+      - - {x: 15, y: -8}
+        - {x: 14, y: -11}
+        - {x: 14, y: -14}
+        - {x: 19, y: -17}
+        - {x: 22, y: -17}
+        - {x: 23, y: -14}
+        - {x: 23, y: -11}
+        - {x: 18, y: -8}
+      - - {x: -8, y: -4}
+        - {x: -7, y: -6}
+        - {x: -8, y: -7}
+        - {x: -7, y: -7}
+      - - {x: 2, y: -4}
+        - {x: 5, y: -8}
+        - {x: 5, y: -6}
+      - - {x: -12, y: 2}
+        - {x: -12, y: 4}
+        - {x: -14, y: 6}
+        - {x: -13, y: 7}
+        - {x: -13, y: 12}
+        - {x: -16, y: 14}
+        - {x: -13, y: 8}
+        - {x: -9, y: 7}
+        - {x: -7, y: 10}
+        - {x: -9, y: 9}
+        - {x: -8, y: 7}
+        - {x: -9, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: 2}
+        - {x: -11, y: 1}
+      - - {x: 9, y: 5}
+        - {x: 6, y: 10}
+        - {x: 9, y: 10}
+        - {x: 10, y: 3}
+        - {x: 11, y: 2}
+        - {x: 9, y: 2}
+      - - {x: 0, y: 7}
+        - {x: 0, y: 6}
+        - {x: -2, y: 4}
+        - {x: -1, y: 4}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: aac62133a779cd54ea958ff782dd4665
+      internalID: -1891415690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -16}
+        - {x: 7, y: -19}
+        - {x: 10, y: -20}
+        - {x: 12, y: -20}
+        - {x: 14, y: -17}
+        - {x: 13, y: -14}
+        - {x: 8, y: -14}
+      - - {x: -18, y: 11}
+        - {x: -24, y: 3}
+        - {x: -24, y: -18}
+        - {x: 10, y: -18}
+        - {x: 12, y: -15}
+        - {x: 12, y: 2}
+        - {x: 9, y: 11}
+      - - {x: -7, y: -11}
+        - {x: -6, y: -12}
+        - {x: -6, y: -11}
+      - - {x: 14, y: -4}
+        - {x: 13, y: -6}
+        - {x: 13, y: -9}
+        - {x: 16, y: -11}
+        - {x: 19, y: -11}
+        - {x: 21, y: -10}
+        - {x: 21, y: -7}
+        - {x: 17, y: -4}
+      - - {x: -18, y: -2}
+        - {x: -18, y: -3}
+        - {x: -16, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -3}
+        - {x: -11, y: -1}
+        - {x: -12, y: -4}
+        - {x: -14, y: -6}
+        - {x: -14, y: -8}
+        - {x: -13, y: -8}
+        - {x: -13, y: -7}
+      - - {x: 4, y: -1}
+        - {x: 4, y: 1}
+        - {x: 2, y: 4}
+        - {x: -1, y: 5}
+        - {x: -4, y: 4}
+        - {x: -2, y: 3}
+        - {x: 1, y: 5}
+        - {x: 4, y: 2}
+        - {x: 4, y: -2}
+        - {x: 5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 368afb45524c6e8439f4cbc01221c864
+      internalID: 638824244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestRangedEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -16}
+        - {x: 7, y: -19}
+        - {x: 10, y: -19}
+        - {x: 12, y: -17}
+        - {x: 11, y: -14}
+        - {x: 8, y: -14}
+      - - {x: 7, y: -7}
+        - {x: 11, y: -9}
+        - {x: 11, y: 4}
+        - {x: 2, y: 8}
+        - {x: -2, y: 8}
+        - {x: -17, y: 5}
+        - {x: -24, y: -10}
+        - {x: -24, y: -13}
+        - {x: -23, y: -18}
+        - {x: -2, y: -18}
+        - {x: 9, y: -13}
+        - {x: 3, y: -2}
+        - {x: 1, y: 0}
+        - {x: 4, y: 0}
+      - - {x: -4, y: -6}
+        - {x: -8, y: -15}
+        - {x: -8, y: -18}
+        - {x: 5, y: -18}
+        - {x: 5, y: -10}
+        - {x: 1, y: -6}
+      - - {x: 7, y: -13}
+        - {x: 10, y: -12}
+        - {x: 10, y: -9}
+        - {x: 7, y: -8}
+        - {x: 5, y: -10}
+      - - {x: 14, y: -5}
+        - {x: 13, y: -7}
+        - {x: 13, y: -10}
+        - {x: 16, y: -12}
+        - {x: 19, y: -12}
+        - {x: 21, y: -11}
+        - {x: 21, y: -8}
+        - {x: 17, y: -5}
+      - - {x: -21, y: 3}
+        - {x: -24, y: -5}
+        - {x: -19, y: -10}
+        - {x: -16, y: -8}
+        - {x: -16, y: 2}
+        - {x: -17, y: 3}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 78ecc5b9a87515943996baef387b7441
+      internalID: 641532597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TestRangedEnemy_3: -657631187
+      TestRangedEnemy_7: 173269892
+      TestRangedEnemy_1: 290697454
+      TestRangedEnemy_6: 234365925
+      TestRangedEnemy_5: -1137736215
+      TestRangedEnemy_8: 1492682021
+      TestRangedEnemy_0: 596462888
+      TestRangedEnemy_9: -1891415690
+      TestRangedEnemy_11: 641532597
+      TestRangedEnemy_10: 638824244
+      TestRangedEnemy_2: 886157392
+      TestRangedEnemy_4: 724278807
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

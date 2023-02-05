@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac53cd434c4e32e429505d7e69bfb721, type: 3}
+  m_Name: ManaWater
+  m_EditorClassIdentifier: 
+  resType: 2
+  resName: ManaWater
+  resSprite: {fileID: 992225377, guid: a45334b7d0e50ae4f93857dd86f62f71, type: 3}
+  animatorController: {fileID: 9100000, guid: eb61fcd1dc22b2f4fa1e2fcc6fd0cc88, type: 2}
+  maxHP: 2500
+  HP: 2500
+  maxResAmount: 250
+  resAmount: 130
+  defaultAbsorbRate: 0.3
+  absorbRate: 0.3
+  isAbsorbing: 0
+  canAttractEnemy: 1
+  beginStage: 0

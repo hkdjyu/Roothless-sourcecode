@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac53cd434c4e32e429505d7e69bfb721, type: 3}
+  m_Name: SlimeStone 1
+  m_EditorClassIdentifier: 
+  resType: 1
+  resName: SlimeStone
+  resSprite: {fileID: 1551773760, guid: cb94f88e637b9de4fbd5f5bbc8dfcd26, type: 3}
+  animatorController: {fileID: 9100000, guid: 6a7734265039da84b81d87a70f644810, type: 2}
+  maxHP: 250
+  HP: 250
+  maxResAmount: 160
+  resAmount: 80
+  defaultAbsorbRate: 0.5
+  absorbRate: 0.5
+  isAbsorbing: 0
+  canAttractEnemy: 1
+  beginStage: 0

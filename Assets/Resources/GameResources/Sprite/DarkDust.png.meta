@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: c66b202f5f9dbac44a42e51826484bf8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkDust_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9e2ac626664b4198dfabf5d72a1b9
+      internalID: 1020935311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025988da98f19be468dc2684e97a9f8c
+      internalID: 1290627561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddee1b181e6e7a468d493e070c3fb62
+      internalID: -55725655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02416c50db902fb4bb08e35abfed729b
+      internalID: -1477156703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_4
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe53d354f497148b2df2067f789f20
+      internalID: -599804061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_5
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0623be5991374da9be18c79f1bcd7
+      internalID: 1074090775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_6
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec1d94cce351464295e0da373978378
+      internalID: -900086496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_7
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0d31db43429174aba15f530dfe58c3
+      internalID: -455182627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_8
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57703ce6d34d09428af4b6a564f74ac
+      internalID: 979347535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_9
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cff3598c55f944da422ee509cb5c4b
+      internalID: -1610050993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_10
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e37d2c338cba4ab3947471b30b34c
+      internalID: -2085432416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_11
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce54378d496a6dc418242f63dfa7130d
+      internalID: -1472676792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkDust_12
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 0
+        width: 303
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: -66.5, y: 12}
+        - {x: -118.5, y: -22}
+        - {x: -132.5, y: -47}
+        - {x: -2.5, y: -69}
+        - {x: 133.5, y: -51}
+        - {x: 84.5, y: 20}
+      physicsShape:
+      - - {x: -44.236816, y: 30.702703}
+        - {x: -122.5, y: -25}
+        - {x: -132.71045, y: -51.810814}
+        - {x: -103.86035, y: -71}
+        - {x: 123.09374, y: -71}
+        - {x: 134.63379, y: -63.324326}
+        - {x: 134.63379, y: -34.540543}
+        - {x: 93.5, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafdc662de2aa8346b523b17806ce141
+      internalID: -834736760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DarkDust_11: -1472676792
+      DarkDust_0: 1020935311
+      DarkDust_10: -2085432416
+      DarkDust_7: -455182627
+      DarkDust_6: -900086496
+      DarkDust_1: 1290627561
+      DarkDust_5: 1074090775
+      DarkDust_2: -55725655
+      DarkDust_4: -599804061
+      DarkDust_9: -1610050993
+      DarkDust_12: -834736760
+      DarkDust_3: -1477156703
+      DarkDust_8: 979347535
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
